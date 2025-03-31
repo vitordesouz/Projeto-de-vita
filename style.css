@@ -72,4 +72,7 @@ display: block;
 .botoes{
 display: flex;
 }
+ .botao;:first-child{
+    border-radius: 40px 0 0 0;
+ }
 }
